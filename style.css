@@ -1,0 +1,14 @@
+body {background-color: rgb(247, 238, 161);
+}
+.p1 {text-align: center;
+}
+.p1 {border-style: double;
+     border-color: rgb(0, 0, 0);
+     border-width: 5px;
+    }
+    .p1 {margin-right: 15%;
+         margin-left: 25%;
+         padding-left: 10%;
+    }
+    #imal { margin-left: 20%;
+    }
